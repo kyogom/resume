@@ -58,5 +58,5 @@ SQLを使わずにCRUD処理ができるライブラリを使った。
 
 ## 作成記事
 ・[MySQLを安く使うならJAWS DB・ClearDBがオススメ](https://kyogom.com/tech/jawsdbcleardb/)
-・[US配列とJIS配列のキーボードの設定を瞬時に変える] (https://kyogom.com/tech/ansi-to-jis/)\
+・[US配列とJIS配列のキーボードの設定を瞬時に変える] (https://kyogom.com/tech/ansi-to-jis/)
 ・[グロースハックのためのSQL – コーホート分析](https://kyogom.com/tech/cohort-analysis-sql/)
