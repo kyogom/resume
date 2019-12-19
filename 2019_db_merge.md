@@ -1,4 +1,6 @@
 `プライム在籍時` `お客様：自社` 
+# 参画期間
+2019年4月〜2019年12月
 
 # プロジェクト発足の経緯
 転職後にライブ配信に関わる企業の開発部長になり、社内全体のシステム整備を促進した。
@@ -37,7 +39,6 @@ Heroku
 ## 課題
 既存データの誤り
 
-
 ## 実行したこと
 ### スクレイピングからAPIへ
 すべてのデータが、スクレイピングで配信データを取得していたため、誤りや欠損が多く存在した。
@@ -60,3 +61,4 @@ SQLを使わずにCRUD処理ができるライブラリを使った。
 ・[MySQLを安く使うならJAWS DB・ClearDBがオススメ](https://kyogom.com/tech/jawsdbcleardb/)
 ・[US配列とJIS配列のキーボードの設定を瞬時に変える](https://kyogom.com/tech/ansi-to-jis/)
 ・[グロースハックのためのSQL – コーホート分析](https://kyogom.com/tech/cohort-analysis-sql/)
+・[LINEで自動メッセージ送るなら使うならFlex Messageがオシャレ](https://kyogom.com/tech/line-flex-message/)
