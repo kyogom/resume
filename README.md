@@ -24,14 +24,18 @@
   - [弁護士事務所向けSaas新規開発](./2019_legal.md)
 
 ## 経験した言語・フレームワーク
-### サーバーサイド
-Node.js / Java / Python  
+### Backend
+Node.js / Java / Python / 
 
-### フロントエンド
-Vue.js / Angular / AngularJS / React.js / jQuery 
+### Frontend
+Vue.js / Angular / AngularJS / React.js / jQuery / HTML / CSS / SASS
+Materialize / BootStrap / Flux / ESLint / TypeScript / React Native / NPM / Yarn
 
 ### DB
-MySQL / DB2 / PostgreSQL  
+MySQL / DB2 / PostgreSQL / MongoDB 
+
+### DevOps
+Jasmine / Mocha / Docker / Kubernates / GitHub Actions
 
 ### Cloud
 Heroku / AWS / GCP / IBM Cloud
