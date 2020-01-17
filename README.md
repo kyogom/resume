@@ -23,12 +23,12 @@
 ### フリーランス 
   - [弁護士事務所向けSaas新規開発](./2019_legal.md)
 
-## 経験したフレームワーク
-### サーバーサイド言語
+## 経験した言語・フレームワーク
+### サーバーサイド
 Node.js / Java / Python  
 
-### クライアントサイド言語
-Vue.js / Angular / AngularJS / React  
+### フロントエンド
+Vue.js / Angular / AngularJS / React.js / jQuery 
 
 ### DB
 MySQL / DB2 / PostgreSQL  
