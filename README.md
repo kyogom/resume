@@ -28,7 +28,7 @@
 Node.js / Java / Python / 
 
 ### Frontend
-Vue.js / Angular / AngularJS / React.js / jQuery / HTML / CSS / SASS
+Vue.js / Angular / AngularJS / React.js / jQuery / HTML / CSS / SASS /
 Materialize / BootStrap / Flux / ESLint / TypeScript / React Native / NPM / Yarn
 
 ### DB
