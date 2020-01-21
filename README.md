@@ -35,7 +35,7 @@ Materialize / BootStrap / Flux / ESLint / TypeScript / React Native / NPM / Yarn
 MySQL / DB2 / PostgreSQL / MongoDB 
 
 ### DevOps
-Jasmine / Mocha / Docker / Kubernates / GitHub Actions
+Jest / Jasmine / Mocha / Docker / Kubernates / GitHub Actions
 
 ### Cloud
 Heroku / AWS / GCP / IBM Cloud
