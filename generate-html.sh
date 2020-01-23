@@ -6,3 +6,5 @@ for file in `\find . -name '*.md'`; do
     echo '<html><head><link rel="stylesheet" href="../github-markdown.css"></head><body>' > data.tmp; cat ./html/$file.html >> data.tmp; cat data.tmp > ./html/$file.html
     echo '</body></html>' >> ./html/$file.html
 done
+sed -i -e "s/\.md/\.md\.html/g" ./html/README.md.html
+rm html/README.md.html-e
