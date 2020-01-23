@@ -58,7 +58,7 @@ SQLを使わずにCRUD処理ができるライブラリを使った。
 サーバーサイドの書き方として選択肢が増えた。
 
 ## 作成記事
-・[MySQLを安く使うならJAWS DB・ClearDBがオススメ](https://kyogom.com/tech/jawsdbcleardb/)
-・[US配列とJIS配列のキーボードの設定を瞬時に変える](https://kyogom.com/tech/ansi-to-jis/)
-・[グロースハックのためのSQL – コーホート分析](https://kyogom.com/tech/cohort-analysis-sql/)
-・[LINEで自動メッセージ送るなら使うならFlex Messageがオシャレ](https://kyogom.com/tech/line-flex-message/)
+・[MySQLを安く使うならJAWS DB・ClearDBがオススメ](https://kyogom.com/tech/jawsdbcleardb/)  
+・[US配列とJIS配列のキーボードの設定を瞬時に変える](https://kyogom.com/tech/ansi-to-jis/)  
+・[グロースハックのためのSQL – コーホート分析](https://kyogom.com/tech/cohort-analysis-sql/)  
+・[LINEで自動メッセージ送るなら使うならFlex Messageがオシャレ](https://kyogom.com/tech/line-flex-message/)  
