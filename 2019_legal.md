@@ -12,14 +12,14 @@
 （Google DriveやDropboxのようなイメージ）
 
 ### フレームワーク等
-Vue.js
-Flask
-PostgreSQL
+Vue.js  
+Flask  
+PostgreSQL  
 
 ## チームの体制
-CEO x 1
-CTO x 1
-開発支援（自分） x 1
+CEO x 1  
+CTO x 1  
+開発支援（自分） x 1  
 
 ## チームメンバーとの関わり
 CEOに要件を確認・提案しつつ、CTOとクライアント/バックエンドを分担し開発をすすめる
