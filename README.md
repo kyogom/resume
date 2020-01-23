@@ -12,7 +12,7 @@
 #### メール
 npdijeb1@gmail.com
 #### ブログ
-[qiita](https://qiita.com/kyogom)
+[qiita](https://qiita.com/kyogom)  
 [HP](https://kyogom.com)
 
 # 業務経験
