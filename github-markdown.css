@@ -6,6 +6,9 @@
   img {
       width: 800px;
   }
+  body {
+    margin: 10px 100px;
+  }
   body .octicon {
     display: inline-block;
     fill: currentColor;
