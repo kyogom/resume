@@ -72,5 +72,5 @@ DBスペシャリストの勉強
 本質的なSEO対策  
 
 ## 作成記事
-・[割り勘webサービスを２週間でリリースした手法を紹介する](https://qiita.com/kyogom/items/870f525b0d06e9d2f3fc) 
+・[割り勘webサービスを２週間でリリースした手法を紹介する](https://qiita.com/kyogom/items/870f525b0d06e9d2f3fc)   
 ・[Elastic Beanstalkでflaskアプリをデプロイする時にハマったことまとめ](https://qiita.com/kyogom/items/fdf8f61558095e70d153)  
